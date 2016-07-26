@@ -74,14 +74,14 @@ h3, h3 a,
 h4, h4 a,
 h5, h5 a {
   font-family: "Asap";
-  color: #262626;
+  color:  #0b5345;
   line-height: 1.200em;
   margin-bottom: 20px;
 }
 
 /* line 11, ../scss/2-framework/_typography.scss */
 h1 {
-  font-size: 38.08px;
+  font-size: 80px;
 }
 
 /* line 12, ../scss/2-framework/_typography.scss */
