@@ -2123,7 +2123,7 @@ button.btn {
 \*------------------------------------*/
 /* line 1, ../scss/3-components/global/_site-header.scss */
 .site-header-wrap {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   padding: 60px 0px 50px;
   background: #D1F2EB;
 }
