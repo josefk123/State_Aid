@@ -30,11 +30,22 @@
 	color:#4c4c4c;
 }
 
-.accordion-section-title.active, .accordion-section-title:hover {
+.accordion-section-title:hover {
 	background:#a7cce5;
 	/* Type */
 	text-decoration:none;
 }
+
+.accordion-section-title.active  {
+	background:#EAECEE;
+	/* Type */
+	text-decoration:none;
+}
+
+
+
+
+
 
 .accordion-section:last-child .accordion-section-title {
 	border-bottom:none;
