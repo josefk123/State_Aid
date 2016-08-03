@@ -87,3 +87,9 @@
 	display:none;
 }
 
+/*----- Section Content -----*/
+.accordion-section-content2 {
+	padding:15px 0px 15px 0px;
+	display:none;
+	background: #d6eaf8;
+}
