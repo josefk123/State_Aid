@@ -1,5 +1,5 @@
 
-<svg height="650" onload="init(evt)" version="1.1" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="650" onload="init(evt)" version="1.1" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <style type="text/css">
    .land
@@ -80,7 +80,7 @@
  </script>
 
  <g >
-  <rect width="730" height="650" style="fill:white"/>
+  <rect width="900" height="650" style="fill:white"/>
 </g> 
 
  <g transform="translate(-1250 -600) scale(3.5)">
