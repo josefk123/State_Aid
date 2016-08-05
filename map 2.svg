@@ -258,13 +258,13 @@
  </g>
 
   <g id="title">
-	<text class="title" x="20.5" y="65">
+	<text class="title" x="10.5" y="35">
    Total aid in 2014 constant prices
   </text>
- 	<text class="title" x="20.5" y="105">
+ 	<text class="title" x="10.5" y="75">
    % of GDP
   </text>
-	<text class="subtitle" x="20.5" y="145">
+	<text class="subtitle" x="10.5" y="115">
    Excluding agricultural and rural development aid and aid granted to fisheries and aquaculture
   </text>
  </g>
@@ -276,7 +276,7 @@
   Tooltip
  </text>
 
- <g id="boxes" transform="translate(20 500) scale(1.5)">
+ <g id="boxes" transform="translate(10.5 500) scale(1.5)">
   <rect height="14.333333333333332" id="legendbox0" style="fill:#7a0177;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" width="14.333333333333332" x="0" y="13.5">
   </rect>
   <rect height="14.333333333333332" id="legendbox1" style="fill:#c51b8a;stroke-width:0.5px;stroke:#303030;fill-rule:evenodd;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" width="14.333333333333332" x="0" y="29.833333333333332">
