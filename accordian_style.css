@@ -19,7 +19,11 @@
 /*----- Section Titles -----*/
 .accordion-section-title {
 	width:100%;
+<<<<<<< HEAD
 	padding:60px -60px 60px -60px;
+=======
+	padding:15px 0px 15px 0px;
+>>>>>>> origin/master
 	display:inline-block;
 	border-bottom:0px solid #1a1a1a;
 	background:#EAECEE;
@@ -30,7 +34,37 @@
 	color:#4c4c4c;
 }
 
+.accordion-section-title2 {
+	width:100%;
+	padding:15px 0px 15px 0px;
+	display:inline-block;
+	border-bottom:0px solid #1a1a1a;
+	background:#EAECEE;
+	transition:all linear 0.15s;
+	/* Type */
+	font-size:1.200em;
+	text-shadow:0px 0px 0px #1a1a1a;
+	color:#4c4c4c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .accordion-section-title:hover {
+	background:#D5D8DC;
+	/* Type */
+	text-decoration:none;
+}
+
+.accordion-section-title2:hover {
 	background:#D5D8DC;
 	/* Type */
 	text-decoration:none;
@@ -53,7 +87,13 @@
 
 /*----- Section Content -----*/
 .accordion-section-content {
-	padding:15px -60px 15px -60px;
+	padding:15px 0px 15px 0px;
 	display:none;
 }
 
+/*----- Section Content -----*/
+.accordion-section-content2 {
+	padding:15px 0px 15px 0px;
+	display:none;
+	background: #d6eaf8;
+}
