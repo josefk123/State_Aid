@@ -48,11 +48,7 @@
     }
  </style>
  
- <script>
- 
- parent.init(evt)	
- 	
- </script>
+
 
  <g>
   <rect height="650" style="fill:white" width="900"/>
