@@ -25,6 +25,19 @@
     {
         opacity: 0.5;
     }
+    .title
+			{
+				font-family: sans-serif;
+				font-size: 20px;
+				font-weight: bold;
+			}
+    .subtitle	
+			{
+				font-family: sans-serif;
+				font-size: 14px;
+				font-style: italic;
+			}
+    
  </style>
  <script type="text/ecmascript">
   function init(evt)
@@ -253,9 +266,12 @@
    </g>
   </g>
  </g>
- <g id="title" >
-  <text style="stroke:none;fill:#000000;stroke-width:1px;font-size:20;line-height:125%;text-anchor:middle;letter-spacing:0px;stroke-linecap:butt;font-weight:bold;font-family:sans-serif;fill-opacity:1;stroke-opacity:1;font-style:normal;stroke-linejoin:miter;word-spacing:0px" x="180" y="45">
-   2014 aid by instrument €m (UK)
+ <g id="title"  >
+  <text class="title" x="30" y="45" >
+   2014 aid by instrument (UK)
+  </text>
+  <text class="title" x="30" y="75" >
+      €m 
   </text>
  </g>
 <rect class="tooltip_bg" id="tooltip_bg"
