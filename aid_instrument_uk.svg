@@ -70,7 +70,7 @@
         tooltip_bg.setAttributeNS(null,"visibility","hidden");
 	}
  </script>
- <g id="figure_1" transform="translate(0 50)scale(2)" >
+ <g id="figure_1" transform="translate(50 50)scale(2)" >
   <g id="patch_1">
    <path d="M 0 288  L 432 288  L 432 0  L 0 0  z " style="fill:#ffffff;" visibility="hidden"/>
   </g>
