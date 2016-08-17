@@ -71,62 +71,62 @@
  </script>
  <g id="figure_1" transform="translate(50,50) scale(2)">
   <g id="patch_1">
-   <path d="M 0 288  L 432 288  L 432 0  L 0 0  z " style="fill:#ffffff;" visibility="hidden"/>
+   <path d="M 0 288  L 432 288  L 432 0  L 0 0  z " style="fill:#ffffff;"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path atitle="Closure" class="section" d="M 217.347275 10.8  C 215.237864 10.8 213.12876 10.850802 211.021795 10.952363  C 208.914831 11.053923 206.810618 11.206212 204.710987 11.409097  L 217.347275 142.18029  L 217.347275 10.8  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#8dd3c7;" value="1433.8"/>
+    <path atitle="Closure" class="section" d="M 217.347275 10.8  C 215.237864 10.8 213.12876 10.850802 211.021795 10.952363  C 208.914831 11.053923 206.810618 11.206212 204.710987 11.409097  L 217.347275 142.18029  L 217.347275 10.8  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#a6cee3;" value="1433.8"/>
    </g>
    <g id="patch_3">
-    <path atitle="Natural disaster" class="section" d="M 204.710987 11.409097  C 204.282675 11.450485 203.854569 11.493976 203.426685 11.53957  C 202.9988 11.585164 202.571142 11.632859 202.143726 11.682655  L 217.347275 142.18029  L 204.710987 11.409097  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#154360;" value="292.5"/>
+    <path atitle="Natural disaster" class="section" d="M 204.710987 11.409097  C 204.282675 11.450485 203.854569 11.493976 203.426685 11.53957  C 202.9988 11.585164 202.571142 11.632859 202.143726 11.682655  L 217.347275 142.18029  L 204.710987 11.409097  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#1f78b4;" value="292.5"/>
    </g>
    <g id="patch_4">
-    <path atitle="Culture" class="section" d="M 202.143726 11.682655  C 197.30107 12.246846 192.49357 13.08016 187.743541 14.178729  C 182.993512 15.277299 178.308313 16.639421 173.709691 18.258775  L 217.347275 142.18029  L 202.143726 11.682655  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#ffffb3;" value="3313.2"/>
+    <path atitle="Culture" class="section" d="M 202.143726 11.682655  C 197.30107 12.246846 192.49357 13.08016 187.743541 14.178729  C 182.993512 15.277299 178.308313 16.639421 173.709691 18.258775  L 217.347275 142.18029  L 202.143726 11.682655  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#b2df8a;" value="3313.2"/>
    </g>
    <g id="patch_5">
-    <path atitle="Employment" class="section" d="M 173.709691 18.258775  C 169.929316 19.589992 166.211835 21.0935 162.568915 22.76458  C 158.925995 24.43566 155.361449 26.272562 151.886464 28.269523  L 217.347275 142.18029  L 173.709691 18.258775  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#a6cee3;" value="2723.9"/>
+    <path atitle="Employment" class="section" d="M 173.709691 18.258775  C 169.929316 19.589992 166.211835 21.0935 162.568915 22.76458  C 158.925995 24.43566 155.361449 26.272562 151.886464 28.269523  L 217.347275 142.18029  L 173.709691 18.258775  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#33a02c;" value="2723.9"/>
    </g>
    <g id="patch_6">
-    <path atitle="Environmental" class="section" d="M 151.886464 28.269523  C 123.779885 44.421459 102.622271 70.418052 92.515473 101.21931  C 82.408676 132.020567 84.05096 165.498477 97.123933 195.162633  C 110.196906 224.82679 133.797377 248.627742 163.349891 261.951168  C 192.902406 275.274595 226.365226 277.2 257.250872 267.354104  L 217.347275 142.18029  L 151.886464 28.269523  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#1f78b4;" value="43590.2"/>
+    <path atitle="Environmental" class="section" d="M 151.886464 28.269523  C 123.779885 44.421459 102.622271 70.418052 92.515473 101.21931  C 82.408676 132.020567 84.05096 165.498477 97.123933 195.162633  C 110.196906 224.82679 133.797377 248.627742 163.349891 261.951168  C 192.902406 275.274595 226.365226 277.2 257.250872 267.354104  L 217.347275 142.18029  L 151.886464 28.269523  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#fb9a99;" value="43590.2"/>
    </g>
    <g id="patch_7">
-    <path atitle="Heritage" class="section" d="M 257.250872 267.354104  C 257.383747 267.311745 257.516555 267.269175 257.649294 267.226393  C 257.782033 267.183612 257.914705 267.140619 258.047307 267.097415  L 217.347275 142.18029  L 257.250872 267.354104  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#b2df8a;" value="94.8"/>
+    <path atitle="Heritage" class="section" d="M 257.250872 267.354104  C 257.383747 267.311745 257.516555 267.269175 257.649294 267.226393  C 257.782033 267.183612 257.914705 267.140619 258.047307 267.097415  L 217.347275 142.18029  L 257.250872 267.354104  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#e31a1c;" value="94.8"/>
    </g>
    <g id="patch_8">
-    <path atitle="Export" class="section" d="M 258.047307 267.097415  C 258.265094 267.026456 258.482695 266.954928 258.700108 266.882832  C 258.917521 266.810735 259.134746 266.73807 259.351778 266.664837  L 217.347275 142.18029  L 258.047307 267.097415  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#33a02c;" value="155.7"/>
+    <path atitle="Export" class="section" d="M 258.047307 267.097415  C 258.265094 267.026456 258.482695 266.954928 258.700108 266.882832  C 258.917521 266.810735 259.134746 266.73807 259.351778 266.664837  L 217.347275 142.18029  L 258.047307 267.097415  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#fdbf6f;" value="155.7"/>
    </g>
    <g id="patch_9">
-    <path atitle="Regional" class="section" d="M 259.351778 266.664837  C 280.989626 259.363633 300.354527 246.545423 315.528844 229.479546  C 330.703162 212.41367 341.168913 191.682681 345.889713 169.339492  L 217.347275 142.18029  L 259.351778 266.664837  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#fb9a99;" value="15437.1"/>
+    <path atitle="Regional" class="section" d="M 259.351778 266.664837  C 280.989626 259.363633 300.354527 246.545423 315.528844 229.479546  C 330.703162 212.41367 341.168913 191.682681 345.889713 169.339492  L 217.347275 142.18029  L 259.351778 266.664837  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#ff7f00;" value="15437.1"/>
    </g>
    <g id="patch_10">
-    <path atitle="Rescue &amp; restructure" class="section" d="M 345.889713 169.339492  C 346.087725 168.402319 346.275481 167.463008 346.452949 166.521728  C 346.630417 165.580449 346.797585 164.637257 346.954425 163.692321  L 217.347275 142.18029  L 345.889713 169.339492  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#e31a1c;" value="651.1"/>
+    <path atitle="Rescue &amp; restructure" class="section" d="M 345.889713 169.339492  C 346.087725 168.402319 346.275481 167.463008 346.452949 166.521728  C 346.630417 165.580449 346.797585 164.637257 346.954425 163.692321  L 217.347275 142.18029  L 345.889713 169.339492  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#cab2d6;" value="651.1"/>
    </g>
    <g id="patch_11">
-    <path atitle="R&amp;D" class="section" d="M 346.954425 163.692321  C 349.591324 147.805349 349.284802 131.568097 346.050177 115.791966  C 342.815552 100.015835 336.707616 84.968064 328.031592 71.400613  L 217.347275 142.18029  L 346.954425 163.692321  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#fdbf6f;" value="10916.4"/>
+    <path atitle="R&amp;D" class="section" d="M 346.954425 163.692321  C 349.591324 147.805349 349.284802 131.568097 346.050177 115.791966  C 342.815552 100.015835 336.707616 84.968064 328.031592 71.400613  L 217.347275 142.18029  L 346.954425 163.692321  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#6a3d9a;" value="10916.4"/>
    </g>
    <g id="patch_12">
-    <path atitle="Sectoral" class="section" d="M 328.031592 71.400613  C 324.813917 66.368856 321.256865 61.562366 317.385196 57.014599  C 313.513527 52.466832 309.336245 48.188365 304.882427 44.208979  L 217.347275 142.18029  L 328.031592 71.400613  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#ff7f00;" value="4058.3"/>
+    <path atitle="Sectoral" class="section" d="M 328.031592 71.400613  C 324.813917 66.368856 321.256865 61.562366 317.385196 57.014599  C 313.513527 52.466832 309.336245 48.188365 304.882427 44.208979  L 217.347275 142.18029  L 328.031592 71.400613  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#ffff99;" value="4058.3"/>
    </g>
    <g id="patch_13">
-    <path atitle="SME" class="section" d="M 304.882427 44.208979  C 300.650565 40.427906 296.17816 36.924994 291.493325 33.722262  C 286.808489 30.519529 281.92106 27.623701 276.861755 25.052978  L 217.347275 142.18029  L 304.882427 44.208979  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#cab2d6;" value="3856.2"/>
+    <path atitle="SME" class="section" d="M 304.882427 44.208979  C 300.650565 40.427906 296.17816 36.924994 291.493325 33.722262  C 286.808489 30.519529 281.92106 27.623701 276.861755 25.052978  L 217.347275 142.18029  L 304.882427 44.208979  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#b15928;" value="3856.2"/>
    </g>
    <g id="patch_14">
-    <path atitle="Individual consumers" class="section" d="M 276.861755 25.052978  C 270.122857 21.628823 263.101 18.792629 255.874379 16.575979  C 248.647758 14.359329 241.243298 12.770482 233.743453 11.827131  L 217.347275 142.18029  L 276.861755 25.052978  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#6a3d9a;" value="5135.0"/>
+    <path atitle="Social support" class="section" d="M 276.861755 25.052978  C 270.122857 21.628823 263.101 18.792629 255.874379 16.575979  C 248.647758 14.359329 241.243298 12.770482 233.743453 11.827131  L 217.347275 142.18029  L 276.861755 25.052978  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#8dd3c7;" value="5135.0"/>
    </g>
    <g id="patch_15">
-    <path atitle="Training" class="section" d="M 233.743453 11.827131  C 232.79337 11.707627 231.842009 11.598514 230.88954 11.499811  C 229.937072 11.401108 228.983553 11.31282 228.029154 11.234965  L 217.347275 142.18029  L 233.743453 11.827131  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#ffff99;" value="650.9"/>
+    <path atitle="Training" class="section" d="M 233.743453 11.827131  C 232.79337 11.707627 231.842009 11.598514 230.88954 11.499811  C 229.937072 11.401108 228.983553 11.31282 228.029154 11.234965  L 217.347275 142.18029  L 233.743453 11.827131  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#ffffb3;" value="650.9"/>
    </g>
    <g id="patch_16">
-    <path atitle="Other" class="section" d="M 228.029154 11.234965  C 226.252717 11.090052 224.473515 10.981304 222.692654 10.908787  C 220.911792 10.83627 219.129639 10.8 217.347302 10.8  L 217.347275 142.18029  L 228.029154 11.234965  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#b15928;" value="1211.5"/>
+    <path atitle="Other" class="section" d="M 228.029154 11.234965  C 226.252717 11.090052 224.473515 10.981304 222.692654 10.908787  C 220.911792 10.83627 219.129639 10.8 217.347302 10.8  L 217.347275 142.18029  L 228.029154 11.234965  z " onmousemove="ShowTooltip(evt)" onmouseout="HideTooltip(evt)" style="fill:#bebada;" value="1211.5"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="legend_1" transform="translate(-20,140) scale(0.5)">
     <g id="patch_17">
-     <path d="M 16.8 284.60625  L 187.91625 284.60625  L 187.91625 16.8  L 16.8 16.8  z " style="fill:#ffffff;stroke:#000000;stroke-linejoin:miter;"/>
+     <path d="M 16.8 284.60625  L 187.565625 284.60625  L 187.565625 16.8  L 16.8 16.8  z " style="fill:#ffffff;stroke:#000000;stroke-linejoin:miter;"/>
     </g>
     <g id="patch_18">
-     <path d="M 21.6 30.718125  L 45.6 30.718125  L 45.6 22.318125  L 21.6 22.318125  z " style="fill:#8dd3c7;"/>
+     <path d="M 21.6 30.718125  L 45.6 30.718125  L 45.6 22.318125  L 21.6 22.318125  z " style="fill:#a6cee3;"/>
     </g>
     <g id="text_1">
      <!-- Closure -->
@@ -150,7 +150,7 @@
      </g>
     </g>
     <g id="patch_19">
-     <path d="M 21.6 48.331875  L 45.6 48.331875  L 45.6 39.931875  L 21.6 39.931875  z " style="fill:#154360;"/>
+     <path d="M 21.6 48.331875  L 45.6 48.331875  L 45.6 39.931875  L 21.6 39.931875  z " style="fill:#1f78b4;"/>
     </g>
     <g id="text_2">
      <!-- Natural disaster -->
@@ -182,7 +182,7 @@
      </g>
     </g>
     <g id="patch_20">
-     <path d="M 21.6 65.945625  L 45.6 65.945625  L 45.6 57.545625  L 21.6 57.545625  z " style="fill:#ffffb3;"/>
+     <path d="M 21.6 65.945625  L 45.6 65.945625  L 45.6 57.545625  L 21.6 57.545625  z " style="fill:#b2df8a;"/>
     </g>
     <g id="text_3">
      <!-- Culture -->
@@ -197,7 +197,7 @@
      </g>
     </g>
     <g id="patch_21">
-     <path d="M 21.6 83.559375  L 45.6 83.559375  L 45.6 75.159375  L 21.6 75.159375  z " style="fill:#a6cee3;"/>
+     <path d="M 21.6 83.559375  L 45.6 83.559375  L 45.6 75.159375  L 21.6 75.159375  z " style="fill:#33a02c;"/>
     </g>
     <g id="text_4">
      <!-- Employment -->
@@ -222,7 +222,7 @@
      </g>
     </g>
     <g id="patch_22">
-     <path d="M 21.6 101.173125  L 45.6 101.173125  L 45.6 92.773125  L 21.6 92.773125  z " style="fill:#1f78b4;"/>
+     <path d="M 21.6 101.173125  L 45.6 101.173125  L 45.6 92.773125  L 21.6 92.773125  z " style="fill:#fb9a99;"/>
     </g>
     <g id="text_5">
      <!-- Environmental -->
@@ -246,7 +246,7 @@
      </g>
     </g>
     <g id="patch_23">
-     <path d="M 21.6 118.786875  L 45.6 118.786875  L 45.6 110.386875  L 21.6 110.386875  z " style="fill:#b2df8a;"/>
+     <path d="M 21.6 118.786875  L 45.6 118.786875  L 45.6 110.386875  L 21.6 110.386875  z " style="fill:#e31a1c;"/>
     </g>
     <g id="text_6">
      <!-- Heritage -->
@@ -266,7 +266,7 @@
      </g>
     </g>
     <g id="patch_24">
-     <path d="M 21.6 136.400625  L 45.6 136.400625  L 45.6 128.000625  L 21.6 128.000625  z " style="fill:#33a02c;"/>
+     <path d="M 21.6 136.400625  L 45.6 136.400625  L 45.6 128.000625  L 21.6 128.000625  z " style="fill:#fdbf6f;"/>
     </g>
     <g id="text_7">
      <!-- Export -->
@@ -283,7 +283,7 @@
      </g>
     </g>
     <g id="patch_25">
-     <path d="M 21.6 154.014375  L 45.6 154.014375  L 45.6 145.614375  L 21.6 145.614375  z " style="fill:#fb9a99;"/>
+     <path d="M 21.6 154.014375  L 45.6 154.014375  L 45.6 145.614375  L 21.6 145.614375  z " style="fill:#ff7f00;"/>
     </g>
     <g id="text_8">
      <!-- Regional -->
@@ -302,7 +302,7 @@
      </g>
     </g>
     <g id="patch_26">
-     <path d="M 21.6 171.628125  L 45.6 171.628125  L 45.6 163.228125  L 21.6 163.228125  z " style="fill:#e31a1c;"/>
+     <path d="M 21.6 171.628125  L 45.6 171.628125  L 45.6 163.228125  L 21.6 163.228125  z " style="fill:#cab2d6;"/>
     </g>
     <g id="text_9">
      <!-- Rescue &amp; restructure -->
@@ -334,7 +334,7 @@
      </g>
     </g>
     <g id="patch_27">
-     <path d="M 21.6 189.241875  L 45.6 189.241875  L 45.6 180.841875  L 21.6 180.841875  z " style="fill:#fdbf6f;"/>
+     <path d="M 21.6 189.241875  L 45.6 189.241875  L 45.6 180.841875  L 21.6 180.841875  z " style="fill:#6a3d9a;"/>
     </g>
     <g id="text_10">
      <!-- R&amp;D -->
@@ -348,7 +348,7 @@
      </g>
     </g>
     <g id="patch_28">
-     <path d="M 21.6 206.855625  L 45.6 206.855625  L 45.6 198.455625  L 21.6 198.455625  z " style="fill:#ff7f00;"/>
+     <path d="M 21.6 206.855625  L 45.6 206.855625  L 45.6 198.455625  L 21.6 198.455625  z " style="fill:#ffff99;"/>
     </g>
     <g id="text_11">
      <!-- Sectoral -->
@@ -367,7 +367,7 @@
      </g>
     </g>
     <g id="patch_29">
-     <path d="M 21.6 224.469375  L 45.6 224.469375  L 45.6 216.069375  L 21.6 216.069375  z " style="fill:#cab2d6;"/>
+     <path d="M 21.6 224.469375  L 45.6 224.469375  L 45.6 216.069375  L 21.6 216.069375  z " style="fill:#b15928;"/>
     </g>
     <g id="text_12">
      <!-- SME -->
@@ -381,38 +381,29 @@
      </g>
     </g>
     <g id="patch_30">
-     <path d="M 21.6 242.083125  L 45.6 242.083125  L 45.6 233.683125  L 21.6 233.683125  z " style="fill:#6a3d9a;"/>
+     <path d="M 21.6 242.083125  L 45.6 242.083125  L 45.6 233.683125  L 21.6 233.683125  z " style="fill:#8dd3c7;"/>
     </g>
     <g id="text_13">
-     <!-- Individual consumers -->
-     <defs>
-      <path d="M 9.8125 72.90625  L 19.671875 72.90625  L 19.671875 0  L 9.8125 0  z " id="BitstreamVeraSans-Roman-49"/>
-     </defs>
+     <!-- Social support -->
      <g transform="translate(55.2 242.083125)scale(0.12 -0.12)">
-      <use xlink:href="#BitstreamVeraSans-Roman-49"/>
-      <use x="29.4921875" xlink:href="#BitstreamVeraSans-Roman-6e"/>
-      <use x="92.87109375" xlink:href="#BitstreamVeraSans-Roman-64"/>
-      <use x="156.34765625" xlink:href="#BitstreamVeraSans-Roman-69"/>
-      <use x="184.130859375" xlink:href="#BitstreamVeraSans-Roman-76"/>
-      <use x="243.310546875" xlink:href="#BitstreamVeraSans-Roman-69"/>
-      <use x="271.09375" xlink:href="#BitstreamVeraSans-Roman-64"/>
-      <use x="334.5703125" xlink:href="#BitstreamVeraSans-Roman-75"/>
-      <use x="397.94921875" xlink:href="#BitstreamVeraSans-Roman-61"/>
-      <use x="459.228515625" xlink:href="#BitstreamVeraSans-Roman-6c"/>
-      <use x="487.01171875" xlink:href="#BitstreamVeraSans-Roman-20"/>
-      <use x="518.798828125" xlink:href="#BitstreamVeraSans-Roman-63"/>
-      <use x="573.779296875" xlink:href="#BitstreamVeraSans-Roman-6f"/>
-      <use x="634.9609375" xlink:href="#BitstreamVeraSans-Roman-6e"/>
-      <use x="698.33984375" xlink:href="#BitstreamVeraSans-Roman-73"/>
-      <use x="750.439453125" xlink:href="#BitstreamVeraSans-Roman-75"/>
-      <use x="813.818359375" xlink:href="#BitstreamVeraSans-Roman-6d"/>
-      <use x="911.23046875" xlink:href="#BitstreamVeraSans-Roman-65"/>
-      <use x="972.75390625" xlink:href="#BitstreamVeraSans-Roman-72"/>
-      <use x="1013.8671875" xlink:href="#BitstreamVeraSans-Roman-73"/>
+      <use xlink:href="#BitstreamVeraSans-Roman-53"/>
+      <use x="63.4765625" xlink:href="#BitstreamVeraSans-Roman-6f"/>
+      <use x="124.658203125" xlink:href="#BitstreamVeraSans-Roman-63"/>
+      <use x="179.638671875" xlink:href="#BitstreamVeraSans-Roman-69"/>
+      <use x="207.421875" xlink:href="#BitstreamVeraSans-Roman-61"/>
+      <use x="268.701171875" xlink:href="#BitstreamVeraSans-Roman-6c"/>
+      <use x="296.484375" xlink:href="#BitstreamVeraSans-Roman-20"/>
+      <use x="328.271484375" xlink:href="#BitstreamVeraSans-Roman-73"/>
+      <use x="380.37109375" xlink:href="#BitstreamVeraSans-Roman-75"/>
+      <use x="443.75" xlink:href="#BitstreamVeraSans-Roman-70"/>
+      <use x="507.2265625" xlink:href="#BitstreamVeraSans-Roman-70"/>
+      <use x="570.703125" xlink:href="#BitstreamVeraSans-Roman-6f"/>
+      <use x="631.884765625" xlink:href="#BitstreamVeraSans-Roman-72"/>
+      <use x="672.998046875" xlink:href="#BitstreamVeraSans-Roman-74"/>
      </g>
     </g>
     <g id="patch_31">
-     <path d="M 21.6 259.696875  L 45.6 259.696875  L 45.6 251.296875  L 21.6 251.296875  z " style="fill:#ffff99;"/>
+     <path d="M 21.6 259.696875  L 45.6 259.696875  L 45.6 251.296875  L 21.6 251.296875  z " style="fill:#ffffb3;"/>
     </g>
     <g id="text_14">
      <!-- Training -->
@@ -431,7 +422,7 @@
      </g>
     </g>
     <g id="patch_32">
-     <path d="M 21.6 277.310625  L 45.6 277.310625  L 45.6 268.910625  L 21.6 268.910625  z " style="fill:#b15928;"/>
+     <path d="M 21.6 277.310625  L 45.6 277.310625  L 45.6 268.910625  L 21.6 268.910625  z " style="fill:#bebada;"/>
     </g>
     <g id="text_15">
      <!-- Other -->
